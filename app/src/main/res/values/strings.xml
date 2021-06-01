@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ranson</string>
+    <string name="title_textView">Novo Paciente</string>
+    <string name="name_textView">Nome</string>
+    <string name="age_textView">Idade</string>
+    <string name="text_CheckBox">Litíase Biliar</string>
+    <string name="ldh">LDH</string>
+    <string name="c_l_mm3">cél./mm3</string>
+    <string name="mmol_l">mmol/L</string>
+    <string name="ui_l">UI/L</string>
+    <string name="leuc_citos">Leucócitos</string>
+    <string name="glicemia">Glicemia</string>
+    <string name="ast_tgo">AST/TGO</string>
+    <string name="calcular">Calcular</string>
+</resources>
